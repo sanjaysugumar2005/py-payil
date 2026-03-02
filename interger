@@ -1,0 +1,24 @@
+     DATA TYPE 
+"john"    =str/ string 
+16        =int/integer 
+45.8      =floot
+true/false=boolean 
+
+        THE USE OF THERE 
+= is use of store the variable in pc mind 
+input is use for there we can user inputer get in terminal that wise we use it
+data type
+
+		OPERATORS
+Arithemetic  Operators 			 compartion Operators					Logical Operators
++  add								 <less than 								AND
+ -  sub								> greater than								OR	
+ * mul								<= less than equal							NOT
+ / div								>= greater than equal 
+ % moudel							== equal
+ ** power							/= not equal
+
+
+
+IF ELIF ELSE 
+
