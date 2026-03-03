@@ -8,7 +8,7 @@
 #  2. Given age check if user can drive min age 18
 
 # age=int(input("enter a number:"))
-# user_can_drive=age>18
+# user_can_drive=age>18``````````````````````````````````````````````````
 # print("user can drive",user_can_drive)
 
 #  3. Given mark check if user fail. pass mark 36
