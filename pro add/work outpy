@@ -1,0 +1,10 @@
+# def add():
+#     x=int(input("enetr a number :"))
+#     y=int(input("enetr a  number:"))
+#     z=x+y
+#     print(z)
+# add()
+# 9) Area-circle (5)
+def circle():
+    x=int(input("enter a raduis"))
+    x
