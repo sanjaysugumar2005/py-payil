@@ -29,19 +29,7 @@
 
 # tab(5)
 # tab(3)
-
-
-
-
-# 5. Find all numbers divisible by 3 until given number
-#  a. Ex: 10 -> 3,  6, 9
-# 6. Find all numbers divisible by 3 and 5 until given number
-#  a. Ex: 50 -> 15, 30, 45
-# 7. Sum of natural numbers until given number
-#  a. Ex: input:  4  ->  1 + 2 + 3 + 4 ->  10
-# 8. Find factorial of given number
-#  Ex: input 5 ->  5 * 4 * 3 * 2 * 1 -> 120
-
+##############################8 QUETION WORK ###########################################
  # 1. Print 1, 2, 3 … 10
 # x=1
 # while x<=10:
@@ -69,15 +57,6 @@
 # 4. Fi)nd all odd numbers until given number
 #  a. Ex: 10 -> 1, 3, 5, 7, 9
 
-# def div(x):
-#     x=10
-#     while ("x2/=0"):
-#         print(x,"odd")
-#         x=x+1:
-#     else:
-#         print("not odd")
-# div(1
-
 # def odd(num):
 #     x=1
 #     while x<=num:
@@ -85,18 +64,50 @@
 #             print(x)
 #         x+=1
 # odd(19)
-def odd(num):
-    x=1
-    while x<=num:
-        if x%2==0:
-            print(x)
-        x+=1
-odd(10)
-# def odd():
-#     x = 1
-#     while x <= 10:
-#         if x % 2 != 0:
-#             print(x)
-#         x += 1
 
-# odd()
+
+# 5. Find all numbers divisible by 3 until given number
+# def divi():
+#     x=1
+#     while x<=10:
+#         if x%3==0:
+#             print(x)
+#         x=x+1       
+# divi()
+
+
+# 6. Find all numbers divisible by 3 and 5 until given number
+#  a. Ex: 50 -> 15, 30, 45
+
+# def divi(num):
+#     x=1
+#     while x <=  num :
+#         if x%3==0 and x%5==0:
+#             print(x)
+#         x=x+1
+# divi(50)
+
+# 7. Sum of natural numbers until given number
+#  a. Ex: input:  4  ->  1 + 2 + 3 + 4 ->  10
+
+# def nat(num):
+#     total=0
+#     x=1
+#     while x<=num:
+#         total=x+total
+#         x=x+1
+#         print(total)
+# nat(4)
+
+
+# 8. Find factorial of given number
+#  Ex: input 5 ->  5 * 4 * 3 * 2 * 1 -> 120
+
+# def nat(num):
+#     total=1
+#     x=1
+#     while x<=num:
+#         total=x*total
+#         x=x+1 
+#         print(total)
+# nat(5)
