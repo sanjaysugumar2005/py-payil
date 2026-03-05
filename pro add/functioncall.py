@@ -83,12 +83,12 @@
 #         print("not even")
 # even(3)
 # 2 is odd (10)
-# def odd(x):
-#     if ("x2/=0"):
-#         print("odd")
-#     else:
-#         print("not odd")
-# odd(10)
+def odd(x):
+    if ("x2/=0"):
+        print("odd")
+    else:
+        print("not odd")
+odd(10)
 # 3) IS-isible-by-five (15)
 
 # def div(x):
