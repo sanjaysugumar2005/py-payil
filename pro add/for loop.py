@@ -80,3 +80,17 @@
 #         total=total+x
 #         print(total)
 # nat()
+
+# 8. Find factorial of given number
+#  Ex: input 5 ->  5 * 4 * 3 * 2 * 1 -> 120
+
+# total=0
+# for x in range():
+#         total=total+x
+#         print(total)
+# def square(start,stop):
+#     for x in range(start,stop):
+#          if x%2!=0:
+#             x=x+2
+#             print(x**2)
+# square(1,20)

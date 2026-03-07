@@ -106,17 +106,11 @@
 # def nat(num):
 #     total=1
 #     x=1
-#     while x>=num:
+#     while x<=num:
 #         total=x*total
 #         x=x+1 
 #         print(total)
 # nat(5)
 
 
-# 8. Find factorial of given number
-#  Ex: input 5 ->  5 * 4 * 3 * 2 * 1 -> 120
 
-# total=0
-# for x in range(5,0):
-#         total=total+x
-#         print(total)
